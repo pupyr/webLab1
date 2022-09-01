@@ -1,0 +1,39 @@
+div{
+    border-color: black;
+}
+
+header{
+    font-family: sans, serif;
+    color: #a1c7ff;
+    text-shadow: #00009d 1px 1px;
+    font-size: large;
+}
+.mid{
+    alignment: center;
+}
+
+body {
+    text-align: center;
+    position: center;
+    margin: 30px 0 300px 0;
+    line-height: 70px;
+}
+#yPanel{
+    margin: 0 auto;
+    width: 300px;
+    background-color: aqua;
+}
+
+#button:hover{
+    background-color: darkgray;
+}
+
+.mid .button:hover {
+    width: 17px;
+    height: 18px;
+}
+
+#R,#x,#yT{
+    text-shadow: -1px 0 blue, 0 1px blue, 1px 0 blue, 0 -1px blue;
+    font-family: sans, serif; color: white;
+}

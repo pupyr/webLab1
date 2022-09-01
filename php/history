@@ -1,0 +1,73 @@
+<table border='1'>
+    <tr>
+        <td> x </td>
+        <td> y </td>
+        <td> R </td>
+        <td> successful </td>
+        <td> time </td>
+        <td> workTime </td>
+    </tr>
+    <tr>
+        <td>-1</td>
+        <td>3</td>
+        <td>2</td>
+        <td>false</td>
+        <td>17:43</td>
+        <td>8.702278137207E-5</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>3</td>
+        <td>2</td>
+        <td>false</td>
+        <td>17:45</td>
+        <td>0.00011897087097168</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>rectangle</td>
+        <td>18:46</td>
+        <td>0.00013303756713867</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>3</td>
+        <td>1.5</td>
+        <td>false</td>
+        <td>21:43</td>
+        <td>0.0001978874206543</td>
+    </tr>
+    <tr>
+        <td>-3</td>
+        <td>2</td>
+        <td>1.5</td>
+        <td>false</td>
+        <td>11:25</td>
+        <td>0.00036096572875977</td>
+    </tr>
+    <tr>
+        <td>-1</td>
+        <td>1</td>
+        <td>1.5</td>
+        <td>false</td>
+        <td>19:30</td>
+        <td>0.0013940334320068</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>rectangle</td>
+        <td>19:47</td>
+        <td>0.00053095817565918</td>
+    </tr>
+    <tr>
+        <td>-1</td>
+        <td>1</td>
+        <td>1.5</td>
+        <td>false</td>
+        <td>08:28</td>
+        <td>0.0023798942565918</td>
+    </tr>
