@@ -14,7 +14,10 @@ function connect(Url){
     let url = new URL(Url+"?x="+x0.name+"&y="+y0+"&R="+R0.value)
     req.open("GET",url)
     req.send()
-    req.onload=()=>document.write(req.response)
+    req.onload=()=>{
+        document.write(req.response)
+        document.getElementById('back').onclick=()=>{location.reload()};
+    }
     req.onerror=()=>alert("Сервер недоступен")
 }
 
