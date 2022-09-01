@@ -1,5 +1,9 @@
 div{
-    border-color: black;
+    margin: 0 auto;
+    background: #fc0; /* Цвет фона */
+    outline: 2px solid #000;
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
 }
 
 header{
@@ -18,10 +22,18 @@ body {
     margin: 30px 0 300px 0;
     line-height: 70px;
 }
+
+#xPanel{
+    width: 500px;
+}
+
 #yPanel{
-    margin: 0 auto;
     width: 300px;
     background-color: aqua;
+}
+
+#rPanel{
+    width:250px;
 }
 
 #button:hover{
